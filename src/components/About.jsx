@@ -9,6 +9,7 @@ const About = () => {
      
     <div>
         <h1>My name is {fname} {lname}  </h1>
+        <h2>Hello World this is my second git commit</h2>
     </div>
   );
 }
